@@ -1,4 +1,46 @@
 body {
-    background: blue;
-  }
+    background-color:whitesmoke;
+    
+  } 
+
+#maintitle {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 70px;
+  text-align:left;
+  margin-top: 20%;
+
+}
+nav {
+  background-color: lightpink;
+  text-align: center;
+  font-size: 20px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding-top: 50px;
   
+}
+
+/* TO REMOVE THE UNDERLINE BELOW THE LINK*/
+a {
+  text-decoration: none;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+a:hover{
+  color: blue;
+}
+
+p {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-shadow: 100px;
+}
+
+#contact {
+  background-color: lightpink;
+  padding-top: 5px;
+  padding-bottom: 150px;
+}
